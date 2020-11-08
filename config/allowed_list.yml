@@ -1,0 +1,8 @@
+---
+allowed_codes:
+  - 'SH24 1AA'
+  - 'SH24 1AB'
+
+allowed_lsoas:
+  - 'Southwark'
+  - 'Lambeth'
